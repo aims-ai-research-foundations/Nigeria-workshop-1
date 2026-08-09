@@ -23,7 +23,6 @@ The Nigeria workshop opens the continental rollout of the AI Research Foundation
 
 One folder per session type on the timetable, in the rough order of a day:
 
-- [`social-activities/`](social-activities/) - Morning openers (bingo, quizzes, dilemma games).
 - [`technical-lectures/`](technical-lectures/) - The day's core AI content, one AIRF course per day (C2, C3, C4, C5, C7).
 - [`toolkit-walkthroughs/`](toolkit-walkthroughs/) - UCL-toolkit AI + RI activities, worked through as you'd teach them.
 - [`explain-it-back/`](explain-it-back/) - Peer-teaching practice with concept cards.
@@ -32,10 +31,9 @@ One folder per session type on the timetable, in the rough order of a day:
 - [`challenge-lab-walkthrough/`](challenge-lab-walkthrough/) - GSP531 challenge-lab debrief (Wed).
 - [`capstone/`](capstone/) - Capstone Project Workshop sessions (Wed + Thu).
 - [`course-labs/`](course-labs/) - End-of-day Course Lab notebooks. Day 1 is live; Days 2-5 land as they are finalised.
-- [`slides/`](slides/) - Session slide decks by day. Empty for now — decks are committed once frozen on Drive.
 - `data/` · `docs/` · `references/` - Datasets, course learning objectives, cheatsheets/glossary/reading list.
 
-Deck-only sessions (Workshop Overview, Pedagogical Concepts + AI vs RI, Contextualize for Africa, GCSB Onboarding, Closing Remarks) have no materials folder — find them in the schedule below and in [`slides/`](slides/).
+Each session's slide deck is committed **inside its own folder** once frozen on Drive. Sessions without a folder (socials, Workshop Overview, Pedagogical Concepts + AI vs RI, Contextualize for Africa, GCSB Onboarding, Closing Remarks) run from Drive-managed materials — find them in the schedule below.
 
 ## 🧪 Today's lab, one click away
 
@@ -47,7 +45,7 @@ See [`course-labs/`](course-labs/) for the full lab-by-day table.
 
 ## Where materials live
 
-- **GitHub (this repo)** - notebooks, code, exercises, and small datasets. Versioned, Colab-ready, and forkable for each cohort. Frozen slide decks will be committed under `slides/`.
+- **GitHub (this repo)** - notebooks, code, exercises, and small datasets. Versioned, Colab-ready, and forkable for each cohort. Frozen slide decks are committed inside each session's folder.
 - **Google Drive** - the Lecturer Toolkit, printable packs, rubrics, slide decks still being co-edited, and other living documents.
 
 ## Schedule

@@ -5,5 +5,4 @@ access recap, task-by-task walkthrough, and the pitfalls we saw in testing.
 
 **Slot (WAT):** Day 3 (Wed) 16:00–16:30
 
-The walkthrough deck will be committed to [`slides/day3/`](../slides/day3/)
-once frozen.
+The walkthrough deck is committed here once frozen.
