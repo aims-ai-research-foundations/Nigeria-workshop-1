@@ -148,4 +148,4 @@ Five days blending technical lectures, hands-on sessions, peer teaching, and soc
 
 </details>
 
-> The source of truth for the timetable is the **Nigeria + Ghana Schedule** sheet on the programme Drive; this table is a snapshot and may lag behind late changes.
+> 
