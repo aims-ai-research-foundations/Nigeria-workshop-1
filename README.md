@@ -1,3 +1,5 @@
+<img src="assets/airf-banner.png" alt="AI Research Foundations for Higher Education — Nigeria Workshop" width="100%">
+
 # AIMS AI Research Foundations - Nigeria Workshop
 
 Materials for the Nigeria lecturer workshop of the **Africa AI Upskilling Programme** — AI Research Foundations for Higher Education.
@@ -19,12 +21,21 @@ The Nigeria workshop opens the continental rollout of the AI Research Foundation
 
 ## Structure
 
-- `lectures/` - In-class activity materials (AI / RI), organised by day.
-- `course-labs/` - Course Lab notebooks for the end-of-day lab sessions, organised by day. Day 1 is live; Days 2–5 land as they are finalised for Nigeria.
-- `slides/` - Session slide decks, organised by day. Empty for now — decks stay on the programme Drive while they are being co-edited and are committed here once frozen.
-- `data/` - Small and sample datasets used in workshop notebooks.
-- `docs/` - Course learning objectives and other reference documents.
-- `references/` - Cheatsheets, glossary, and recommended reading.
+One folder per session type on the timetable, in the rough order of a day:
+
+- [`social-activities/`](social-activities/) - Morning openers (bingo, quizzes, dilemma games).
+- [`technical-lectures/`](technical-lectures/) - The day's core AI content, one AIRF course per day (C2, C3, C4, C5, C7).
+- [`toolkit-walkthroughs/`](toolkit-walkthroughs/) - UCL-toolkit AI + RI activities, worked through as you'd teach them.
+- [`explain-it-back/`](explain-it-back/) - Peer-teaching practice with concept cards.
+- [`lecture-it-back/`](lecture-it-back/) - Groups deliver a toolkit activity to the room (planning Tue, deliveries Thu-Fri).
+- [`agentic-ai-hands-on/`](agentic-ai-hands-on/) - Hands-on agentic AI session (Wed).
+- [`challenge-lab-walkthrough/`](challenge-lab-walkthrough/) - GSP531 challenge-lab debrief (Wed).
+- [`capstone/`](capstone/) - Capstone Project Workshop sessions (Wed + Thu).
+- [`course-labs/`](course-labs/) - End-of-day Course Lab notebooks. Day 1 is live; Days 2-5 land as they are finalised.
+- [`slides/`](slides/) - Session slide decks by day. Empty for now — decks are committed once frozen on Drive.
+- `data/` · `docs/` · `references/` - Datasets, course learning objectives, cheatsheets/glossary/reading list.
+
+Deck-only sessions (Workshop Overview, Pedagogical Concepts + AI vs RI, Contextualize for Africa, GCSB Onboarding, Closing Remarks) have no materials folder — find them in the schedule below and in [`slides/`](slides/).
 
 ## 🧪 Today's lab, one click away
 

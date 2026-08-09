@@ -1,7 +1,7 @@
 # Course Labs
 
-Notebooks for the end-of-day **Course Lab** sessions (17:00–18:00 WAT), organised
-by day. Click an **Open in Colab** badge to launch a notebook directly in Google
+Notebooks for the end-of-day **Course Lab** sessions (17:00–18:00 WAT, except
+Day 5 where the Course 7 lab runs 14:30–15:30), organised by day. Click an **Open in Colab** badge to launch a notebook directly in Google
 Colab — no local setup required.
 
 Day 1 is live. Days 2–5 are added as each lab is finalised for Nigeria.
