@@ -48,8 +48,7 @@ See [`course-labs/`](course-labs/) for the full lab-by-day table.
 
 ## Where materials live
 
-- **GitHub (this repo)** - notebooks, code, and exercises. Versioned, Colab-ready, and forkable for each cohort. Frozen slide decks are committed inside each session's folder.
-- **Google Drive** - the Lecturer Toolkit, printable packs, rubrics, slide decks still being co-edited, and other living documents.
+- Notebooks, code, and exercises. Versioned, Colab-ready, and forkable for each cohort. Frozen slide decks are committed inside each session's folder.
 
 ## Schedule
 
