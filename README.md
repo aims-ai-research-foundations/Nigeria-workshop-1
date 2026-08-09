@@ -23,7 +23,6 @@ The Nigeria workshop opens the continental rollout of the AI Research Foundation
 
 One folder per session on the timetable, in the rough order of the week:
 
-- [`workshop-overview/`](workshop-overview/) - Opening briefing: goals of the week and housekeeping (Mon).
 - [`technical-lectures/`](technical-lectures/) - The day's core AI content, one AIRF course per day (C2, C3, C4, C5, C7).
 - [`pedagogy-ai-vs-ri/`](pedagogy-ai-vs-ri/) - Introduce Pedagogical Concept + AI vs RI Activities (Mon).
 - [`toolkit-walkthroughs/`](toolkit-walkthroughs/) - UCL-toolkit AI + RI activities, worked through as you'd teach them.
@@ -35,10 +34,9 @@ One folder per session on the timetable, in the rough order of the week:
 - [`challenge-lab-walkthrough/`](challenge-lab-walkthrough/) - GSP531 challenge-lab debrief (Wed).
 - [`capstone/`](capstone/) - Capstone Project Workshop sessions (Wed + Thu).
 - [`course-labs/`](course-labs/) - End-of-day Course Lab notebooks. Day 1 is live; Days 2-5 land as they are finalised.
-- [`closing-remarks/`](closing-remarks/) - Wrap-up and what happens next (Fri).
 - `docs/` · `references/` - Course learning objectives, cheatsheets/glossary/reading list.
 
-Each session's slide deck is committed **inside its own folder** once frozen on Drive. Only the social openers (managed as printables on Drive) and structural items (registration, breaks, lunch) have no folder — see the schedule below.
+Each session's slide deck is committed **inside its own folder** once frozen on Drive. The social openers, Workshop Overview and Closing Remarks are Drive-managed and have no folder, as do structural items (registration, breaks, lunch) — see the schedule below.
 
 ## 🧪 Today's lab, one click away
 
