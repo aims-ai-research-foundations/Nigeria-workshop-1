@@ -4,7 +4,7 @@
 **Lab:** Small Embeddings and Similarity — *Words → Vectors → Geometry*
 *(revised Nigeria version, Colab-verified 2026-08-02)*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/nigeria-workshop/blob/main/course-labs/day1/day1-course2-student.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Nigeria-workshop-1/blob/main/course-labs/day1/day1-course2-student.ipynb)
 
 ## About
 

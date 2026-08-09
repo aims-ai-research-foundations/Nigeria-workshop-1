@@ -42,7 +42,7 @@ Each session's slide deck is committed **inside its own folder** once frozen on 
 
 The Day 1 Course Lab opens directly in Google Colab — no local setup required:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/nigeria-workshop/blob/main/course-labs/day1/day1-course2-student.ipynb) **Day 1 · Course 2 — Small Embeddings and Similarity**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Nigeria-workshop-1/blob/main/course-labs/day1/day1-course2-student.ipynb) **Day 1 · Course 2 — Small Embeddings and Similarity**
 
 See [`course-labs/`](course-labs/) for the full lab-by-day table.
 
@@ -147,5 +147,3 @@ Five days blending technical lectures, hands-on sessions, peer teaching, and soc
 | 17:00-17:30 | Closing Remarks |
 
 </details>
-
-> 
