@@ -21,19 +21,24 @@ The Nigeria workshop opens the continental rollout of the AI Research Foundation
 
 ## Structure
 
-One folder per session type on the timetable, in the rough order of a day:
+One folder per session on the timetable, in the rough order of the week:
 
+- [`workshop-overview/`](workshop-overview/) - Opening briefing: goals of the week and housekeeping (Mon).
 - [`technical-lectures/`](technical-lectures/) - The day's core AI content, one AIRF course per day (C2, C3, C4, C5, C7).
+- [`pedagogy-ai-vs-ri/`](pedagogy-ai-vs-ri/) - Introduce Pedagogical Concept + AI vs RI Activities (Mon).
 - [`toolkit-walkthroughs/`](toolkit-walkthroughs/) - UCL-toolkit AI + RI activities, worked through as you'd teach them.
 - [`explain-it-back/`](explain-it-back/) - Peer-teaching practice with concept cards.
 - [`lecture-it-back/`](lecture-it-back/) - Groups deliver a toolkit activity to the room (planning Tue, deliveries Thu-Fri).
+- [`gcsb-onboarding/`](gcsb-onboarding/) - Google Cloud Skills Boost account setup (Tue).
+- [`contextualize-for-africa/`](contextualize-for-africa/) - Adapting the materials to local contexts (Tue).
 - [`agentic-ai-hands-on/`](agentic-ai-hands-on/) - Hands-on agentic AI session (Wed).
 - [`challenge-lab-walkthrough/`](challenge-lab-walkthrough/) - GSP531 challenge-lab debrief (Wed).
 - [`capstone/`](capstone/) - Capstone Project Workshop sessions (Wed + Thu).
 - [`course-labs/`](course-labs/) - End-of-day Course Lab notebooks. Day 1 is live; Days 2-5 land as they are finalised.
+- [`closing-remarks/`](closing-remarks/) - Wrap-up and what happens next (Fri).
 - `docs/` · `references/` - Course learning objectives, cheatsheets/glossary/reading list.
 
-Each session's slide deck is committed **inside its own folder** once frozen on Drive. Sessions without a folder (socials, Workshop Overview, Pedagogical Concepts + AI vs RI, Contextualize for Africa, GCSB Onboarding, Closing Remarks) run from Drive-managed materials — find them in the schedule below.
+Each session's slide deck is committed **inside its own folder** once frozen on Drive. Only the social openers (managed as printables on Drive) and structural items (registration, breaks, lunch) have no folder — see the schedule below.
 
 ## 🧪 Today's lab, one click away
 
