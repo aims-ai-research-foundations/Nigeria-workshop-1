@@ -8,7 +8,7 @@ Day 1 is live. Days 2–5 are added as each lab is finalised for Nigeria.
 
 | Day | Course | Lab | Notebook |
 |-----|--------|-----|----------|
-| [Day 1](day1/) | Course 2 | Small Embeddings and Similarity | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/nigeria-workshop/blob/main/course-labs/day1/day1-course2-student.ipynb) |
+| [Day 1](day1/) | Course 2 | Small Embeddings and Similarity | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Nigeria-workshop-1/blob/main/course-labs/day1/day1-course2-student.ipynb) |
 | [Day 2](day2/) | Course 3 | Neural Network Training & Overfitting | coming — being finalised for Nigeria |
 | [Day 3](day3/) | Course 4 | Transformer architecture lab | coming — being finalised for Nigeria |
 | [Day 4](day4/) | Course 5 | LoRA fine-tuning lab | coming — being finalised for Nigeria |
