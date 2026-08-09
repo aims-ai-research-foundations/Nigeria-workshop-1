@@ -7,4 +7,4 @@
 - `ai-activities/` — AI activities for the day's toolkit sessions.
 - `ri-activities/` — RI activities for the day's toolkit sessions.
 
-Also on Day 2: Lecture it Back Planning (briefing deck in [`slides/day2/`](../../slides/day2/)), GCSB Onboarding, and Contextualize for Africa.
+Also on Day 2: Lecture it Back Planning (briefing deck will be committed to [`slides/day2/`](../../slides/day2/) once frozen), GCSB Onboarding, and Contextualize for Africa.

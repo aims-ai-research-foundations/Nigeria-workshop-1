@@ -13,7 +13,7 @@ __pycache__/
 .venv/
 venv/
 
-# Unlike the pilot repo, slide decks (*.pptx) ARE committed here — see slides/.
+# Unlike the pilot repo, frozen slide decks (*.pptx) WILL be committed here — see slides/.
 # Videos and archives still live on Google Drive (they bloat history).
 *.mp4
 *.mov

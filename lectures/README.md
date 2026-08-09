@@ -6,7 +6,7 @@ Lecture materials organised by day. Each day folder contains:
 - `ai-activities/` — AI activities for the day.
 - `ri-activities/` — RI activities for the day.
 
-**Slides** for each day's sessions are versioned in [`slides/`](../slides/) at the repo root (a change from the pilot repo, where decks lived only on Google Drive). Decks still being co-edited by facilitators remain on Drive until frozen — each `slides/dayN/README.md` says what is committed and what is pending.
+**Slides** for each day's sessions will be versioned in [`slides/`](../slides/) at the repo root (a change from the pilot repo, where decks lived only on Google Drive). Nothing is committed there yet — decks stay on Drive while being co-edited and land once frozen; each `slides/dayN/README.md` lists what is planned.
 
 | Day | Course | Technical lecture |
 |-----|--------|-------------------|

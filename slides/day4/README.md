@@ -1,9 +1,7 @@
 # Day 4 — Slides
 
-Nothing committed yet.
-
-## Pending (still on Drive / other owners)
+No decks committed yet. Planned for this day (currently on Drive):
 
 - Course 5 Technical Lecture
 - Capstone Project Workshop
-- Day-4 social materials (Conversation Cards)
+- Conversation Cards (social)

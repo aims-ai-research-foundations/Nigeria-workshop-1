@@ -4,7 +4,7 @@
 **Lab:** Small Embeddings and Similarity — *Words → Vectors → Geometry*
 *(revised Nigeria version, Colab-verified 2026-08-02)*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/nigeria-workshop/blob/main/assignments/day1/day1-course2-student.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/nigeria-workshop/blob/main/course-labs/day1/day1-course2-student.ipynb)
 
 ## About
 
@@ -20,8 +20,3 @@ implement `euclidean_distance`, a nearest-neighbour search, and
 - Follow the **Predict → Run → Explain** protocol for every code cell: predict
   what will happen, run it, then explain any surprises.
 - To keep your work, save a copy to your own Drive (*File → Save a copy in Drive*).
-
-## For facilitators
-
-`day1-course2-teacher.ipynb` is the answer key with a 60-minute run-of-show.
-Don't hand it out before the session.

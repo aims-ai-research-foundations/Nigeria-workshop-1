@@ -1,17 +1,15 @@
 # Slides
 
-Session slide decks organised by day. New for this round: frozen decks are
-**versioned here** rather than living only on Google Drive. Decks still being
-co-edited (or owned by another facilitator) stay on Drive until final — each
-day's README lists what is committed and what is pending.
+Session slide decks, organised by day. **No decks are committed yet** — they are
+still being co-edited on the programme Drive and land here one by one once
+frozen, so this repo carries the exact versions presented.
 
-| Day | Committed | Pending (Drive) |
-|-----|-----------|-----------------|
-| [Day 1](day1/) | Pedagogical Concepts & AI vs RI | Workshop Overview · Course 2 Technical Lecture · social pack |
-| [Day 2](day2/) | Course 3 Technical Lecture (90 min) · Lecture it Back briefing | Contextualize for Africa · GCSB Onboarding |
-| [Day 3](day3/) | Challenge Lab Walkthrough | Course 4 Technical Lecture · Agentic AI Hands-on |
-| [Day 4](day4/) | — | Course 5 Technical Lecture · Capstone Project Workshop |
-| [Day 5](day5/) | — | Course 7 Technical Lecture · Closing Remarks |
+| Day | Planned decks |
+|-----|---------------|
+| [Day 1](day1/) | Workshop Overview · Course 2 Technical Lecture · Pedagogical Concepts & AI vs RI · AI Trainer Bingo |
+| [Day 2](day2/) | Course 3 Technical Lecture (90 min) · Lecture it Back briefing · Contextualize for Africa · GCSB Onboarding · Africa Quiz |
+| [Day 3](day3/) | Course 4 Technical Lecture · Agentic AI Hands-on · Challenge Lab Walkthrough · Spot the Slop |
+| [Day 4](day4/) | Course 5 Technical Lecture · Capstone Project Workshop · Conversation Cards |
+| [Day 5](day5/) | Course 7 Technical Lecture · Closing Remarks · What Would You Do? |
 
-Source drafts and review notes live in the AIMS team's working notes; the
-programme Drive folder *2026-08 · Nigeria (W1+W2)* holds the co-edited copies.
+The co-edited copies live in the programme Drive folder *2026-08 · Nigeria (W1+W2)*.

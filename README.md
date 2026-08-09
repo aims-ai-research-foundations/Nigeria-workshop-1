@@ -1,14 +1,14 @@
 # AIMS AI Research Foundations - Nigeria Workshop
 
-Materials for the Nigeria lecturer workshops of the AI Research Foundations for Higher Education programme.
+Materials for the Nigeria lecturer workshop of the **Africa AI Upskilling Programme** — AI Research Foundations for Higher Education.
 
 ## 🎓 About
 
-The Nigeria workshops open the continental rollout of the AI Research Foundations lecturer training, building on the AIMS pilot workshop (Muizenberg, June 2026). Two one-week cohorts run back to back.
+The Nigeria workshop opens the continental rollout of the AI Research Foundations lecturer training: Google DeepMind's curriculum, UCL's lecturer toolkit, and AIMS training and mentoring the lecturers — with FATE Foundation as the local partner.
 
-📅 **Dates:** Week 1: 10 – 14 August 2026 · Week 2: 17 – 21 August 2026
-📍 **Venue:** Nigeria, hosted with our partner FATE Foundation
-👥 **Audience:** University lecturers and teaching staff
+📅 **Dates:** 10 – 14 August 2026
+📍 **Venue:** Lagos, Nigeria · hosted with FATE Foundation
+👥 **Audience:** AI Champions — university lecturers and teaching assistants
 
 ## 🚀 What You Will Do
 
@@ -19,26 +19,32 @@ The Nigeria workshops open the continental rollout of the AI Research Foundation
 
 ## Structure
 
-- `lectures/` - Demo notebooks and in-class activities (AI / RI), organised by day.
-- `assignments/` - Course-lab notebooks and practical exercises, organised by day.
-- `slides/` - Session slide decks, organised by day. (New for this round: decks are versioned here rather than living only on Drive.)
+- `lectures/` - In-class activity materials (AI / RI), organised by day.
+- `course-labs/` - Course Lab notebooks for the end-of-day lab sessions, organised by day. Day 1 is live; Days 2–5 land as they are finalised for Nigeria.
+- `slides/` - Session slide decks, organised by day. Empty for now — decks stay on the programme Drive while they are being co-edited and are committed here once frozen.
 - `data/` - Small and sample datasets used in workshop notebooks.
 - `docs/` - Course learning objectives and other reference documents.
 - `references/` - Cheatsheets, glossary, and recommended reading.
 
+## 🧪 Today's lab, one click away
+
+The Day 1 Course Lab opens directly in Google Colab — no local setup required:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/nigeria-workshop/blob/main/course-labs/day1/day1-course2-student.ipynb) **Day 1 · Course 2 — Small Embeddings and Similarity**
+
+See [`course-labs/`](course-labs/) for the full lab-by-day table.
+
 ## Where materials live
 
-- **GitHub (this repo)** - notebooks, code, exercises, small datasets, and the session slide decks. Versioned, Colab-ready, and forkable for each cohort.
-- **Google Drive** - the Lecturer Toolkit, printable packs, rubrics, and other living documents that facilitators co-edit. Some decks owned by other facilitators are still Drive-only; each `slides/dayN/README.md` lists what is pending.
-
-> **Before making this repo public:** decide whether the `*-teacher.ipynb` answer-key notebooks in `assignments/` should be published. The pilot repo shipped student notebooks only.
+- **GitHub (this repo)** - notebooks, code, exercises, and small datasets. Versioned, Colab-ready, and forkable for each cohort. Frozen slide decks will be committed under `slides/`.
+- **Google Drive** - the Lecturer Toolkit, printable packs, rubrics, slide decks still being co-edited, and other living documents.
 
 ## Schedule
 
-Five days blending technical lectures, hands-on sessions, peer teaching, and social activities. Times are in West Africa Time (WAT). Both weeks follow the same shape; Week 1's Monday starts with a longer social breakfast.
+Five days blending technical lectures, hands-on sessions, peer teaching, and social activities. Times are in West Africa Time (WAT).
 
 <details>
-<summary><strong>Week 1 - Monday, 10 August 2026</strong></summary>
+<summary><strong>Day 1 - Monday, 10 August 2026</strong></summary>
 
 | Time | Session |
 |------|---------|
@@ -58,7 +64,7 @@ Five days blending technical lectures, hands-on sessions, peer teaching, and soc
 </details>
 
 <details>
-<summary><strong>Week 1 - Tuesday, 11 August 2026</strong></summary>
+<summary><strong>Day 2 - Tuesday, 11 August 2026</strong></summary>
 
 | Time | Session |
 |------|---------|
@@ -77,7 +83,7 @@ Five days blending technical lectures, hands-on sessions, peer teaching, and soc
 </details>
 
 <details>
-<summary><strong>Week 1 - Wednesday, 12 August 2026</strong></summary>
+<summary><strong>Day 3 - Wednesday, 12 August 2026</strong></summary>
 
 | Time | Session |
 |------|---------|
@@ -96,7 +102,7 @@ Five days blending technical lectures, hands-on sessions, peer teaching, and soc
 </details>
 
 <details>
-<summary><strong>Week 1 - Thursday, 13 August 2026</strong></summary>
+<summary><strong>Day 4 - Thursday, 13 August 2026</strong></summary>
 
 | Time | Session |
 |------|---------|
@@ -114,7 +120,7 @@ Five days blending technical lectures, hands-on sessions, peer teaching, and soc
 </details>
 
 <details>
-<summary><strong>Week 1 - Friday, 14 August 2026</strong></summary>
+<summary><strong>Day 5 - Friday, 14 August 2026</strong></summary>
 
 | Time | Session |
 |------|---------|
@@ -128,33 +134,6 @@ Five days blending technical lectures, hands-on sessions, peer teaching, and soc
 | 15:30-16:00 | Break |
 | 16:00-17:00 | Lecture it Back |
 | 17:00-17:30 | Closing Remarks |
-
-</details>
-
-<details>
-<summary><strong>Week 2 - Monday, 17 August 2026</strong></summary>
-
-| Time | Session |
-|------|---------|
-| 09:30-10:00 | Registration & Welcoming |
-| 10:00-10:30 | AI Trainer Bingo |
-| 10:30-11:00 | Workshop Overview |
-| 11:00-12:00 | Course 2 Technical Lecture |
-| 12:00-12:30 | Break |
-| 12:30-13:00 | Introduce Pedagogical Concept |
-| 13:00-13:30 | AI vs RI Activities |
-| 13:30-14:30 | Lunch |
-| 14:30-15:30 | Toolkit Activity Walkthrough |
-| 15:30-16:00 | Break |
-| 16:00-17:00 | Explain It Back |
-| 17:00-18:00 | Course 2 Lab |
-
-</details>
-
-<details>
-<summary><strong>Week 2 - Tuesday to Friday, 18 - 21 August 2026</strong></summary>
-
-Identical to Week 1's Tuesday to Friday (see above).
 
 </details>
 

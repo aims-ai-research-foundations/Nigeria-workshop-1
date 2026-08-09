@@ -1,12 +1,8 @@
 # Day 1 — Slides
 
-## Committed
+No decks committed yet. Planned for this day (currently on Drive):
 
-- `Pedagogical_Concepts_and_AI_vs_RI_Nigeria.pptx` — two-part deck covering the
-  *Introduce Pedagogical Concept* and *AI vs RI Activities* sessions (2026-07-27 revision).
-
-## Pending (still on Drive / other owners)
-
-- Workshop Overview — under review, Drive: *Workshop Items' Materials → Workshop Overview*
+- Workshop Overview
 - Course 2 Technical Lecture
-- Day-1 social materials (AI Trainer Bingo)
+- Pedagogical Concepts & AI vs RI (two-part deck)
+- AI Trainer Bingo (social)

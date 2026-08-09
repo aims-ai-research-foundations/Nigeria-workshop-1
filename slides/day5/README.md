@@ -1,9 +1,7 @@
 # Day 5 — Slides
 
-Nothing committed yet.
-
-## Pending (still on Drive / other owners)
+No decks committed yet. Planned for this day (currently on Drive):
 
 - Course 7 Technical Lecture
 - Closing Remarks
-- Day-5 social materials (What Would You Do?)
+- What Would You Do? (social)
