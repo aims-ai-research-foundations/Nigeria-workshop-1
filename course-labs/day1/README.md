@@ -17,6 +17,8 @@ implement `euclidean_distance`, a nearest-neighbour search, and
 ## How to work through it
 
 - Click **Open in Colab** above to launch the notebook.
+- **Before running or editing anything, save your own copy: File → Save a copy
+  in Drive.** The badge opens the notebook in read-only playground mode;
+  without your own copy, all your work is lost when the tab closes.
 - Follow the **Predict → Run → Explain** protocol for every code cell: predict
   what will happen, run it, then explain any surprises.
-- To keep your work, save a copy to your own Drive (*File → Save a copy in Drive*).
