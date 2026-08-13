@@ -33,7 +33,7 @@ One folder per session on the timetable, in the rough order of the week:
 - [`agentic-ai-hands-on/`](agentic-ai-hands-on/) - Hands-on agentic AI session (Wed).
 - [`challenge-lab-walkthrough/`](challenge-lab-walkthrough/) - GSP531 challenge-lab debrief (Wed).
 - [`capstone/`](capstone/) - Capstone Project Workshop sessions (Wed + Thu).
-- [`course-labs/`](course-labs/) - End-of-day Course Lab notebooks. Days 1-3 are live; Days 4-5 land as they are finalised.
+- [`course-labs/`](course-labs/) - End-of-day Course Lab notebooks. Days 1-4 are live; Day 5 lands once it is finalised.
 - `docs/` · `references/` - Course learning objectives, cheatsheets/glossary/reading list.
 
 Each session's slide deck is committed **inside its own folder** once frozen on Drive. The social openers, Workshop Overview and Closing Remarks are Drive-managed and have no folder, as do structural items (registration, breaks, lunch) — see the schedule below.
@@ -47,6 +47,8 @@ The Course Labs open directly in Google Colab — no local setup required:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Nigeria-workshop-1/blob/main/course-labs/day2/day2-course3-student.ipynb) **Day 2 · Course 3 — Neural Network Training & Overfitting**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Nigeria-workshop-1/blob/main/course-labs/day3/day3-course4-student.ipynb) **Day 3 · Course 4 — A Transformer in 60 Minutes**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aims-ai-research-foundations/Nigeria-workshop-1/blob/main/course-labs/day4/day4-course5-student.ipynb) **Day 4 · Course 5 — Fine-Tuning a Layer with LoRA**
 
 See [`course-labs/`](course-labs/) for the full lab-by-day table.
 
